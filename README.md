@@ -16,7 +16,7 @@ My name is Hoang, I am a software developer. I'm from Vietnam and currently livi
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=336791)
 
-![](https://img.shields.io/badge/Tool-Adobe.XD-informational?style=for-the-badge&logo=AdobeXD&logoColor=white&color=FF26BE)
+![](https://img.shields.io/badge/Tool-Adobe.XD-informational?style=for-the-badge&logo=adobexd&logoColor=white&color=FF26BE)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=for-the-badge&logo=Figma&logoColor=white&color=F24E1E)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=for-the-badge&logo=Firebase&logoColor=white&color=FF6C37)

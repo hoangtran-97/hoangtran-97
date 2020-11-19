@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![hoangtran-97's github stats](https://github-readme-stats.vercel.app/api?username=hoangtran-97)](https://github.com/hoangtran-97/github-readme-stats)
-
+[![hoangtran-97's github stats](https://github-readme-stats.vercel.app/api?username=hoangtran-97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtran-97)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hoangtran-97/hoangtran-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
